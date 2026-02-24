@@ -1,34 +1,24 @@
-# SmartTaskSchedular
+# Smart Expense Tracker
 
-A **desktop expense tracker application** built using **Java**, **JavaFX**, and **MySQL** for managing daily expenses with a clean user interface and useful visualizations.
+A JavaFX-based desktop personal finance management system built using Java and MySQL to manage daily income and expense transactions with interactive data visualization.
 
 ---
 
-## 📝 Description
+## 📝 Project Overview
 
-SmartTaskSchedular (Expense Tracker) allows users to:
+Smart Expense Tracker is a desktop application that allows users to record, manage, and analyze their financial transactions efficiently.  
 
-- Record daily expense and income transactions
-- View all expenses in a structured table
-- Filter transactions by date range
-- See category-wise breakdown using charts
-- Export transaction data to CSV
-
-This project demonstrates:
-✔ Java (OOP & JDBC)  
-✔ Desktop UI with JavaFX  
-✔ MySQL database integration  
-✔ Data visualization with charts
+The system provides a clean graphical interface and stores data securely in a MySQL database.
 
 ---
 
 ## 🚀 Features
 
-✔ Add new expense/income records  
-✔ View all transactions  
-✔ Filter by date range  
-✔ Category-wise pie chart visualization  
-✔ Export data to CSV format  
+✔ Add income and expense transactions  
+✔ View all transactions in a structured table  
+✔ Filter transactions by date range  
+✔ Category-wise expense visualization using Pie Chart  
+✔ Export transaction data to CSV format  
 
 ---
 
@@ -39,8 +29,26 @@ This project demonstrates:
 | Language   | Java |
 | GUI        | JavaFX |
 | Database   | MySQL |
-| Build Tool | Eclipse/IDE |
+| Connectivity | JDBC |
+| IDE        | Eclipse |
 
 ---
 
-## 📂 Folder Structure
+## 🧠 Concepts Applied
+
+- Object-Oriented Programming (OOP)
+- JDBC Database Connectivity
+- MVC Design Structure
+- Data Visualization using JavaFX Charts
+- File Handling (CSV Export)
+
+---
+
+## 📌 Future Improvements
+
+- User authentication system
+- Monthly budget alerts
+- Advanced financial reports
+- Deployment as executable (.jar)
+
+---
